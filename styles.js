@@ -1,9 +1,9 @@
 import { StyleSheet } from "react-native";
 
-export default StyleSHeet.create({
+export default StyleSheet.create({
 	container: {
 		flex: 1,
 		alignItems: "center",
-		justifyContent: "Center";
+		justifyContent: "Center",
 	},
 });
