@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Text, Button, StatusBar } from "react-native";
-import styles from "./Styles";
+import styles from "./styles";
 export default function Settings({ navigation }) {
 	return(
 		<View style={styles.container}>
