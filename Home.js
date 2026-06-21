@@ -1,7 +1,7 @@
 import React from"react";
 import { View, Text, Button, Statusbar } from "react-native";
 import styles from "./styles";
-eport default function Home({ navigation }) {
+export default function Home({ navigation }) {
 	return (
 		<View style-{styles.container}>
 			<StatusBar barStyle="dark-content"/>
