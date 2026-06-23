@@ -1,1 +1,8 @@
-// place holder for snacks
+// // place holder for snacks
+
+// import React from "react";
+// import { Text } from "react-native";
+
+// export default function App() {
+//   return <Text>Hello</Text>;
+// }
