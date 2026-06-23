@@ -1,8 +1,8 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import Spaceships from "./spaceships";
-import Planets from "./planets";
-import Films from "./films";
+import Spaceships from "./Spaceships";
+import Planets from "./Planets";
+import Films from "./Films";
 
 const Tab = createBottomTabNavigator();
 
